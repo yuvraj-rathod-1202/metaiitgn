@@ -18,7 +18,11 @@ Select an option below to get started. Or continue scrolling to learn more about
   grid-gap: 15px;
   font-family: Inter;
 }
-
+@media (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 .md-button {
   display: flex;
   align-items: center;
@@ -109,8 +113,8 @@ Access resources and information related to career development and placement ser
 ## Useful Resources
 
 - [IIT Gandhinagar Official Website](https://www.iitgn.ac.in/)
-- [Campus Facilities](https://www.iitgn.ac.in/facilities)
-- [Student Life](https://www.iitgn.ac.in/student-life)
+- [Campus Facilities](https://campus.iitgn.ac.in/facility/)
+- [Student Life](https://iitgn.ac.in/student/lifeoncampus/)
 
 Feel free to explore the repository and make the most out of the resources available.
 

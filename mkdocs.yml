@@ -30,6 +30,7 @@ nav:
       - About: academics.md
       - Branches: academics_branches.md
       - Branch Change: academics_branchchange.md
+      - Dean's List: academics_dean's_list.md
       - Honours: academics_honors.md
       - Minors: academics_minors.md
       - Online Courses: academics_onlinecourses.md
@@ -38,6 +39,7 @@ nav:
       - Grading: academics_grading.md
       - PAL: academics_pal.md
       - Semester Store: academics_semester_store.md
+      - Deans List: academics_deans_list.md
     - Policies:
       - Academic Advisories: policies.md
       - SSAC: policies.md
@@ -49,7 +51,7 @@ nav:
       - Course guides: courses.md
       - Course materials: courses.md
     - Careers:
-      - Internships: careers.md
+      - Internships and Placement: careers.md
       # - Placements: placements.md
     - Alumni:
       - Alumni Directory: alumni.md
